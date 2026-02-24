@@ -1,4 +1,4 @@
-# QURTUBIKS LMS Dashboard
+# VEDRALMS Dashboard
 
 A modern Learning Management System (LMS) dashboard built with React, Vite, Tailwind CSS, and Zustand.
 
